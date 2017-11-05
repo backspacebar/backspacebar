@@ -1,0 +1,9 @@
+Building backspacebar
+
+See doc/readme-qt.rst for instructions on building backspacebar-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of backspacebar.
+
+See doc/build-*.txt for instructions on building backspacebard,
+the intended-for-services, no-graphical-interface, reference
+implementation of backspacebar.
